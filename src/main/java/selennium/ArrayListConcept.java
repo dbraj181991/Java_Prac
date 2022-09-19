@@ -22,7 +22,8 @@ public class ArrayListConcept {
             System.out.println(n);
         }
         System.out.println("----------------");
-        System.out.println("----------------");
+
+
  /*       ar.add(4, 100);
         System.out.println(ar.get(3));*/
     }
